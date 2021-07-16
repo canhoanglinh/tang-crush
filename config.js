@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Ỉn à!',
-    introDesc: `Dù e có là ỉn thì vẫn là 1 con lợn nhẹ hơn cân nặng trung bình của loài lợn nên đừng buốn nhé`,
+    introDesc: `Dù e có là 1 con lợn thì vẫn là 1 con lợn đáng yêu có cân nặng nhẹ hơn cân nặng trung bình của loài lợn mà, thế nên đừng buốn nhé`,
     btnIntro: 'hihi',
     title: 'Hãy trả lời trung thực nhé 😙',
     desc: 'Em có hứa sẽ bao a Linh 1 bữa ăn và tặng quà chục tỷ khum? ',
